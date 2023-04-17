@@ -6,4 +6,5 @@ market-analysis-project
 
 - how?
 
--process
+- process
+-- collecting
